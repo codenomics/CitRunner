@@ -6,18 +6,15 @@
 
 ## Download
 
-**Latest version: v1.0** (Oct 5, 2026)
+**Latest version: v1.1** (Oct 8, 2026)
 
-- [CitRunner_v1.0_no-install.zip](https://github.com/codenomics/CitRunner/releases/download/v1.0/CitRunner_v1.0_no-install.zip) - 70 KB
-- [CitRunner_v1.0_Setup.exe](https://github.com/codenomics/CitRunner/releases/download/v1.0/CitRunner_v1.0_Setup.exe) - 151 KB
+- [CitRunner_v1.1_no-install.zip](https://github.com/codenomics/CitRunner/releases/download/v1.1/CitRunner_v1.1_no-install.zip) - 71 KB
+- [CitRunner_v1.1_Setup.exe](https://github.com/codenomics/CitRunner/releases/download/v1.1/CitRunner_v1.1_Setup.exe) - 151 KB
+- [CitRunner_v1.1_source.zip](https://github.com/codenomics/CitRunner/releases/download/v1.1/CitRunner_v1.1_source.zip) - 61 KB
 
-What's new in v1.0:
+What's new in v1.1:
 
-- First release: look up a Star Citizen player by handle and see their public RSI profile
-- Shows avatar, citizen record, enlisted date, location, fluency, badge, bio
-- Lists every organization the player is in, with their rank in each; click one to read its overview, history, manifesto, charter and members
-- Keeps a list of your recent lookups; click one to look it up again
-- Checks GitHub for a newer version and offers to update
+- No app changes. Uploading Code**
 
 Older versions are on the [Releases page](https://github.com/codenomics/CitRunner/releases).
 
@@ -36,6 +33,10 @@ Older versions are on the [Releases page](https://github.com/codenomics/CitRunne
 3. Open the folder and double-click the app's .exe. Nothing is installed; delete the folder to remove it.
 
 Windows says "Windows protected your PC"? Click More info > Run anyway. It shows that for apps without a paid signing certificate.
+
+## Source code
+
+Want to see how it works, or build it yourself? Download the file ending in `_source.zip` above, extract it and double-click `Build.bat`. It only uses the C# compiler that already comes with Windows, so there is nothing to install.
 
 ## More details
 
